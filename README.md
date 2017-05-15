@@ -1,16 +1,19 @@
 # MixVR
-Sample of Android app Mixed with VR Unity app
+Sample of Android app Mixed with VR Unity app ( Unity project in https://github.com/joaobiriba/VRaze )
 
 This project was created as a sample of the intregation between Unity app and an Android Native Java app.
 
 Home Screen:
+
 <img src="https://github.com/joaobiriba/MixVR/blob/master/Screenshots/home.png" width="400">
 
 Tap the Fab to enter in VR:
+
 <img src="https://github.com/joaobiriba/MixVR/blob/master/Screenshots/enterVR.jpg" width="400">
 
 
 Play the Maze:
+
 <img src="https://github.com/joaobiriba/MixVR/blob/master/Screenshots/vrmaze.jpg" width="400">
 
 assets directory is where all the Unity magic happens, but beware of the [AndroidManifest.xml](https://github.com/joaobiriba/MixVR/blob/master/app/src/main/AndroidManifest.xml).
